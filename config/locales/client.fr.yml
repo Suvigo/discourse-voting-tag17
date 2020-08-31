@@ -1,0 +1,13 @@
+fr:
+  js:
+    voting:
+      allow_topic_voting: "Autoriser les utilisateurs à voter dans cette catégorie"
+      vote_title: "Vote"
+      vote_title_plural: "Votes"
+      voted_title: "Voté"
+      voting_closed_title: "Fermé"
+      voting_limit: "Limite"
+      who_voted: "a voté."
+    filters:
+      votes:
+        title: "Votes"
